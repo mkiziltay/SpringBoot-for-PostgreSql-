@@ -13,7 +13,7 @@
 
 ## Listing all users
 ### GET Method
-* htts://localhost:8080/api/users/all
+* http://localhost:8080/api/users/all
 
 ## Adding  user
 ### POST Method
