@@ -9,20 +9,20 @@
 * update(if dB doesn't exist and dB needs to build while Framework working.)
 
 ## Base url
-* https://localhost:8080/api/users
+* http://localhost:8080/api/users
 
 ## Listing all users
 ### GET Method
-* https://localhost:8080/api/users/all
+* htts://localhost:8080/api/users/all
 
 ## Adding  user
 ### POST Method
-* https://localhost:8080/api/users/add
+* http://localhost:8080/api/users/add
 
 ## Update a user
 ### PUT Method
-* this feature not added yet.
+* This feature not added yet.
 
 ## Delete a user
 ### DELETE Method
-* this feature not added yet.
+* This feature not added yet.
