@@ -4,7 +4,7 @@
 * And then add next to database connection source url the database_name where is your table exist.
 
 
-## About hibernate ddl auto
+## About hibernate ddl auto (../application.properties)
 * ...validate(if dB exist and columns called with  existing name.)
 * ...update(if dB doesn't exist and dB needs to build while Framework working.)
 
