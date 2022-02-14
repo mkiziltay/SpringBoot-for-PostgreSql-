@@ -5,8 +5,8 @@
 
 
 ## About hibernate ddl auto
-* validate(if dB exist and columns called with  existing name.)
-* update(if dB doesn't exist and dB needs to build while Framework working.)
+* ...validate(if dB exist and columns called with  existing name.)
+* ...update(if dB doesn't exist and dB needs to build while Framework working.)
 
 ## Base url
 * http://localhost:8080/api/users
